@@ -34,7 +34,7 @@ To open the Styles pane in Word, press Ctrl-Alt-Shift-S. Or, click on the Home m
 
 This will open the Styles pane. The style highlighted in the Styles pane is the current style of the text where the cursor is. You can highlight text and change it's style by clicking on a different style in the Styles pane.
 
-![Styles pane](styles_button.png "Styles pane")
+![Styles pane](styles_pane.png "Styles pane")
 
 For example, if you want to change some text to be bold (that is, the Strong style), you want to:
 
